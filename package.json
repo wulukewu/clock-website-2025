@@ -1,6 +1,7 @@
 {
   "name": "clock-website",
   "version": "0.1.0",
+  "homepage": "https://rayhuang2006.github.io/clock-website",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
@@ -23,7 +24,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "lint": "eslint src --ext .ts,.tsx --fix"
   },
   "eslintConfig": {
     "extends": [
