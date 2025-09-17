@@ -16,11 +16,8 @@ test('renders timezone selector', () => {
 
 test('renders default clocks', () => {
   render(<App />);
-  // Look for clocks by their clock-label class
-  const clockLabels = document.querySelectorAll('.clock-label');
-  const clockLabelTexts = Array.from(clockLabels).map(el => el.textContent);
-  
-  expect(clockLabelTexts).toContain('New York');
-  expect(clockLabelTexts).toContain('London');
-  expect(clockLabelTexts).toContain('Tokyo');
+  // Use Testing Library queries to find clock labels
+  expect(screen.getByText('New York')).toBeInTheDocument();
+  expect(screen.getByText('London')).toBeInTheDocument();
+  expect(screen.getByText('Tokyo')).toBeInTheDocument();
 });
