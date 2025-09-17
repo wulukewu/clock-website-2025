@@ -1,8 +1,8 @@
 # 🌍 World Clock Website
 
 
-[![CI/CD Pipeline](https://github.com/wulukewu/clock-website/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/wulukewu/clock-website/actions/workflows/ci-cd.yml)
-[![Quality & Security Checks](https://github.com/wulukewu/clock-website/actions/workflows/quality.yml/badge.svg)](https://github.com/wulukewu/clock-website/actions/workflows/quality.yml)
+![CI/CD Pipeline](https://github.com/wulukewu/clock-website-2025/actions/workflows/ci-cd.yml/badge.svg)
+![Quality & Security Checks](https://github.com/wulukewu/clock-website-2025/actions/workflows/quality.yml/badge.svg)
 
 A beautiful, responsive React-based world clock website that displays real-time clocks for different timezones around the world. Users can interactively select and deselect timezones to customize their view.
 
@@ -26,7 +26,7 @@ A beautiful, responsive React-based world clock website that displays real-time 
 
 ## 🚀 Live Demo
 
-Visit the live website: [https://wulukewu.github.io/clock-website](https://wulukewu.github.io/clock-website)
+Visit the live website: [https://wulukewu.github.io/clock-website-2025](https://wulukewu.github.io/clock-website-2025)
 
 ## 📱 Screenshots
 
@@ -42,8 +42,8 @@ Visit the live website: [https://wulukewu.github.io/clock-website](https://wuluk
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/wulukewu/clock-website.git
-   cd clock-website
+   git clone https://github.com/wulukewu/clock-website-2025.git
+   cd clock-website-2025
    ```
 
 2. **Install dependencies**
