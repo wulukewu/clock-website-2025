@@ -1,7 +1,8 @@
 # 🌍 World Clock Website
 
-[![CI/CD Pipeline](https://github.com/rayhuang2006/clock-website/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/rayhuang2006/clock-website/actions/workflows/ci-cd.yml)
-[![Quality & Security Checks](https://github.com/rayhuang2006/clock-website/actions/workflows/quality.yml/badge.svg)](https://github.com/rayhuang2006/clock-website/actions/workflows/quality.yml)
+
+[![CI/CD Pipeline](https://github.com/wulukewu/clock-website/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/wulukewu/clock-website/actions/workflows/ci-cd.yml)
+[![Quality & Security Checks](https://github.com/wulukewu/clock-website/actions/workflows/quality.yml/badge.svg)](https://github.com/wulukewu/clock-website/actions/workflows/quality.yml)
 
 A beautiful, responsive React-based world clock website that displays real-time clocks for different timezones around the world. Users can interactively select and deselect timezones to customize their view.
 
@@ -25,7 +26,7 @@ A beautiful, responsive React-based world clock website that displays real-time 
 
 ## 🚀 Live Demo
 
-Visit the live website: [https://rayhuang2006.github.io/clock-website](https://rayhuang2006.github.io/clock-website)
+Visit the live website: [https://wulukewu.github.io/clock-website](https://wulukewu.github.io/clock-website)
 
 ## 📱 Screenshots
 
@@ -41,7 +42,7 @@ Visit the live website: [https://rayhuang2006.github.io/clock-website](https://r
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/rayhuang2006/clock-website.git
+   git clone https://github.com/wulukewu/clock-website.git
    cd clock-website
    ```
 
@@ -144,4 +145,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Built with ❤️ by [rayhuang2006](https://github.com/rayhuang2006)
+Built with ❤️ by [wulukewu](https://github.com/wulukewu)
